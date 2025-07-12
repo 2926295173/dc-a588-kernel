@@ -1,1 +1,1 @@
-# dc-a588-kernel
+# dc-a588
